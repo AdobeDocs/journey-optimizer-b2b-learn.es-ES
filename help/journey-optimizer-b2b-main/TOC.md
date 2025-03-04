@@ -2,7 +2,7 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Tutoriales'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Tutoriales'
 user-guide-description: Aprenda a sacar el máximo partido a  [!DNL Journey Optimizer B2B Edition]. Orqueste los recorridos de la cuenta y del grupo de compras mediante la IA generativa integrada y la automatización líder del sector para maximizar la demanda de ofertas específicas.
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 40%
@@ -15,8 +15,8 @@ ht-degree: 40%
 + [[!DNL Journey Optimizer B2B Edition] Tutoriales](overview.md)
 + [Información general de [!DNL Journey Optimizer B2B Edition]](/help/overview-video.md)
 + Recorridos de cuenta {#account-journeys}
-   + [Introducción a Recorridos de cuenta](/help/account-journeys/introducing-account-journeys.md)
-   + [Crear un Recorrido de cuenta](/help/account-journeys/create-an-account-journey.md)
+   + [Introducción a recorridos de cuenta](/help/account-journeys/introducing-account-journeys.md)
+   + [Crear un recorrido de cuenta](/help/account-journeys/create-an-account-journey.md)
    + Nodos de recorrido {#journey-nodes}
       + [Nodo de acción](/help/account-journeys/journey-nodes/action-node.md)
       + [Nodo de escucha](/help/account-journeys/journey-nodes/listen-node.md)
