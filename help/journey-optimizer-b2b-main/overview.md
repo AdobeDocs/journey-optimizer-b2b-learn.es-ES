@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] Tutoriales'
 description: Vea tutoriales de vídeo sobre  [!DNL Journey Optimizer B2B Edition]. Mejore su comprensión de cómo organizar recorridos de cuenta y de grupo de compra, y mucho más.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Descubra cómo sacar el máximo partido a [!DNL Journey Optimizer B2B Edition]. 
 
 ## Novedades {#whats-new}
 
-* [Presentando Recorridos de cuenta](/help/account-journeys/introducing-account-journeys.md)
-  _Conozca todos los Recorridos de la cuenta y cómo usarlos para atraer a su audiencia objetivo._
+* [Fases de grupos de compras](/help/buying-groups/buying-group-stages.md)
+  _Aprenda a crear varias fases del ciclo vital de un grupo de compra dentro de un solo modelo de fase y a especificar las reglas de transición._
 
-* [Crear un Recorrido de cuenta](/help/account-journeys/create-an-account-journey.md)
-  _Aprenda a utilizar la audiencia de la cuenta, el nodo de acción, el nodo de escucha y el nodo de rutas divididas para crear Recorridos de cuenta._
+* [Escuchar eventos de AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Defina y use cualquier evento de experiencia en el recorrido de su cuenta._
 
-* [Nodo de acción](/help/account-journeys/journey-nodes/action-node.md)
-  _Obtenga información acerca de los nodos de acción y cómo configurarlos al crear un Recorrido de cuentas._
-
-* [Nodo de escucha](/help/account-journeys/journey-nodes/listen-node.md)
-  _Obtenga información acerca de los nodos de escucha y cómo configurarlos al crear un Recorrido de cuentas._
-
-* [Recorrido de la cuenta dividida](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Obtenga información acerca de los nodos de ruta de acceso de división o combinación y cómo configurarlos al crear un Recorrido de cuentas._
+* [Organización de medios de pago](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Aprenda a utilizar un recorrido para mover personas a una audiencia externa, que luego puede insertar en cualquier destino de medios de pago admitido en el catálogo de destinos de AEP._
 
 ## Vídeos más populares {#most-popular-videos}
 
