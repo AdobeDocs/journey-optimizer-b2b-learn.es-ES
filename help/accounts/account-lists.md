@@ -30,4 +30,4 @@ Una vez que las listas de cuentas se crean y rellenan con cuentas relevantes, se
 
 En resumen, las listas de cuentas en AJO B2B son un elemento fundamental para administrar y orquestar actividades de marketing y participación de clientes basadas en cuentas. Permiten a los usuarios organizar, dirigir y personalizar las participaciones de marketing para cuentas clave, lo que impulsa interacciones y relaciones significativas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448652/?learn=on&enablevpops&captions=spa)

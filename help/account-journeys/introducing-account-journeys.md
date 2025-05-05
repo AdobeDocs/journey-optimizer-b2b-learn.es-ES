@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los Recorridos de cuenta y cómo utilizarlos para atraer a la audiencia de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443210/?learn=on&enablevpops&captions=spa)

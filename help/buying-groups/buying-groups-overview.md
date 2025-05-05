@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo comprar grupos y cómo utilizarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452931/?learn=on&captions=spa)

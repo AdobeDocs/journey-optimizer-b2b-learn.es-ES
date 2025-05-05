@@ -30,4 +30,4 @@ Como solución a este desafío, AJO B2B le ofrece la oportunidad de:
 
 En este vídeo, se muestra el uso de un recorrido para mover personas a una audiencia externa, que se puede insertar en cualquier destino de medios de pago admitido en el catálogo de destinos de AEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448675/?learn=on&enablevpops&captions=spa)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre los nodos de escucha y cómo configurarlos al crear un Recorrido de cuentas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443237/?learn=on&enablevpops&captions=spa)

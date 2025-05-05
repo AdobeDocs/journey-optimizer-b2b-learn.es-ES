@@ -24,4 +24,4 @@ La escucha de eventos de AEP en AJO B2B le permite definir y utilizar cualquier 
 
 * Uso de eventos de AEP en el recorrido de cuentas
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448686/?learn=on&enablevpops&captions=spa)

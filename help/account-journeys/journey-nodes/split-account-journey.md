@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los nodos de rutas de división o combinación y cómo configurarlos al crear un Recorrido de cuentas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443259/?learn=on&enablevpops&captions=spa)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo utilizar los nodos audiencia de cuenta, nodo de acción, nodo de escucha y rutas divididas para crear Recorridos de cuenta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443222/?learn=on&enablevpops&captions=spa)
