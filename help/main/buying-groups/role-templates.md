@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Obtenga información sobre cómo comprar plantillas de función de grupo y cómo configurarlas/utilizarlas al crear un grupo de compra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453303/?captions=spa&learn=on)

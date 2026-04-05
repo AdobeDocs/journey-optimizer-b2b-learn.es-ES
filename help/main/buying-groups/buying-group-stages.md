@@ -22,4 +22,4 @@ Las fases del grupo de compra representan las diferentes fases por las que pasa 
 
 Con esta función, puede crear varias fases del ciclo vital de un grupo de compra dentro de un solo modelo de fase y especificar las reglas de transición. Al establecer estas reglas, tendrá control total sobre cómo un grupo comprador puede pasar de una etapa a otra. Las transiciones de fase se pueden automatizar dentro de un Recorrido, combinando estas funcionalidades en un flujo potente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448697/?captions=spa&learn=on&enablevpops)
