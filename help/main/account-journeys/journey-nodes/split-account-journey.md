@@ -34,4 +34,4 @@ Obtenga información sobre los nodos de rutas de división y combinación y cóm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-Para obtener más información, consulte _[Dividir y combinar rutas](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ en la guía del usuario.
+Para obtener más información, consulte _[Dividir y combinar rutas](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ en la guía del usuario.

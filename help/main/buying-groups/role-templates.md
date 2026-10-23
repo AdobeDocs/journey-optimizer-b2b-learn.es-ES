@@ -39,4 +39,4 @@ Obtenga información sobre cómo comprar plantillas de función de grupo y cómo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-Para obtener más información, consulte [Comprar plantillas de rol de grupo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) en la guía del usuario.
+Para obtener más información, consulte [Comprar plantillas de rol de grupo](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) en la guía del usuario.

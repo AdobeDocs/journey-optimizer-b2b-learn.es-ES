@@ -34,4 +34,4 @@ Obtenga información sobre cómo comprar grupos y cómo utilizarlos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
-Para obtener más información, consulte _[Grupos de compra](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ en la guía del usuario.
+Para obtener más información, consulte _[Grupos de compra](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ en la guía del usuario.
