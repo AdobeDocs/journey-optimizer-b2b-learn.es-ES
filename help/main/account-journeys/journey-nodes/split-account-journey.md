@@ -32,6 +32,6 @@ ht-degree: 5%
 
 Obtenga información sobre los nodos de rutas de división y combinación y cómo configurarlos al crear un recorrido de cuenta o persona.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443259/?captions=spa&learn=on&enablevpops)
 
 Para obtener más información, consulte _[Dividir y combinar rutas](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ en la guía del usuario.
