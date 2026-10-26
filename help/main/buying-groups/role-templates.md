@@ -40,7 +40,7 @@ Obtenga información sobre cómo generar plantillas de funciones en [!DNL Adobe 
 
 Este tutorial es para especialistas en marketing y administradores que utilizan [!DNL Journey Optimizer B2B Edition] para el marketing basado en cuentas y desean dirigirse a las partes interesadas adecuadas en cada cuenta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453303/?captions=spa&learn=on)
 
 Descubra cómo:
 
