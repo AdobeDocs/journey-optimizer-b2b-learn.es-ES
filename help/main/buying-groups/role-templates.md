@@ -53,4 +53,4 @@ Descubra cómo:
 * Utilice la configuración Puntuación de integridad para establecer el número de miembros necesarios para cada rol.
 * Publique una plantilla para que su estado cambie a Activo y esté disponible para los intereses de la solución.
 
-Para obtener más información, consulte [Comprar plantillas de rol de grupo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) en la guía del usuario.
+Para obtener más información, consulte [Comprar plantillas de rol de grupo](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) en la guía del usuario.

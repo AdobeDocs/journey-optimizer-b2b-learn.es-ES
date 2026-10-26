@@ -49,4 +49,4 @@ Descubra cómo:
 * Dividido por personas mediante atributos de persona, atributos de relación cuenta-persona, pertenencia a grupos de compra, objetos personalizados e historial de eventos con ventanas retrospectivas, frecuencia y filtrado de inactividad.
 * Comprenda cómo el nodo Cerrar automáticamente las rutas divididas devuelve a las personas al recorrido de la cuenta.
 
-Para obtener más información, consulte _[Dividir y combinar rutas](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ en la guía del usuario.
+Para obtener más información, consulte _[Dividir y combinar rutas](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ en la guía del usuario.
