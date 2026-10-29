@@ -48,4 +48,4 @@ Descubra cómo:
 * Revise y actualice los miembros del grupo de compra. Las actualizaciones manuales tienen prioridad sobre las acciones de recorrido y los trabajos del sistema.
 * Utilice perspectivas de función para comparar la adquisición y la participación entre funciones, filtradas por intervalo de fechas.
 
-Para obtener más información, consulte _[Grupos de compra](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ en la guía del usuario.
+Para obtener más información, consulte _[Grupos de compra](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ en la guía del usuario.
