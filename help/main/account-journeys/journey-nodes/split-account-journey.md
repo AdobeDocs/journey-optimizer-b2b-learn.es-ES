@@ -35,7 +35,7 @@ Aprenda a utilizar los nodos de ruta de acceso dividida y combinada en Adobe [!D
 
 Este tutorial es para profesionales de marketing y diseñadores de recorridos que utilizan [!DNL Journey Optimizer B2B Edition] para personalizar recorridos de marketing basados en cuentas para diferentes segmentos y miembros del grupo de compra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443259/?captions=spa&learn=on&enablevpops)
 
 Descubra cómo:
 
