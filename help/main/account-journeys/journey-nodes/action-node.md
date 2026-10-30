@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Use nodos de acción en [!DNL Adobe Journey Optimizer B2B Edition] para definir acciones para cuentas o personas en un recorrido. Compare acciones de cuenta y acciones de personas, y aprenda qué acciones admite cada tipo de recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443248/?captions=spa&quality=12&learn=on)
 
 ## Aspectos básicos del nodo de acción
 
