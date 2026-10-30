@@ -35,5 +35,5 @@ Un oyente responde a la actividad de flujo continuo coincidente cuando la cuenta
 
 Para conocer los requisitos y las instrucciones de configuración, consulte estas páginas en la guía del usuario:
 
-* [Seleccionar eventos de experiencia y campos](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [Escuchar un evento](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [Seleccionar eventos de experiencia y campos](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Escuchar un evento](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}

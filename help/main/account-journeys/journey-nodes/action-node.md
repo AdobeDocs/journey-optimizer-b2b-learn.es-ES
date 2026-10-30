@@ -30,4 +30,4 @@ El vídeo abarca estos temas:
 
 ## Documentación relacionada
 
-Para ver los pasos de configuración y las acciones de personas y cuentas admitidas, consulte [Realizar una acción en la guía del usuario](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.
+Para ver los pasos de configuración y las acciones de personas y cuentas admitidas, consulte [Realizar una acción en la guía del usuario](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.
