@@ -1,5 +1,5 @@
 ---
-title: Resumen de grupos de compra en Adobe [!DNL Journey Optimizer B2B Edition]
+title: Comprando grupos en [!DNL Journey Optimizer B2B Edition]
 description: Aprenda a crear, administrar y evaluar grupos de compra en Adobe [!DNL Journey Optimizer B2B Edition], desde plantillas de funciones e intereses de soluciones hasta preparación y perspectivas de funciones.
 keywords: grupos de compra, Adobe [!DNL Journey Optimizer B2B Edition], marketing basado en cuentas, grupo de compra B2B, plantillas de rol, interés de solución, audiencia de cuenta, fases del grupo de compra, integridad del grupo de compra, perspectivas de rol, automatización de marketing B2B
 feature: Buying Groups
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Resumen de grupos de compra en Adobe [!DNL Journey Optimizer B2B Edition]
+# Comprando grupos en [!DNL Journey Optimizer B2B Edition]
 
 Aprenda cómo los grupos de compra organizan a las personas para las decisiones de compra B2B en [!DNL Adobe Journey Optimizer B2B Edition]. Este vídeo muestra los componentes que necesita, cómo preparar un trabajo de creación de grupos de compra y cómo evaluar la preparación.
 

@@ -1,27 +1,39 @@
 ---
-title: Escuchar eventos de AEP
-description: La escucha de eventos de AEP en  [!DNL Journey Optimizer B2B Edition]  le permite definir y utilizar cualquier evento de experiencia en el recorrido de la cuenta.
+title: Escuchar eventos de Experience Platform
+description: Obtenga información sobre cómo configurar eventos de Experience Platform en Adobe Journey Optimizer B2B Edition y utilizar restricciones de eventos y filtros para avanzar en los recorridos de cuenta.
 feature: Account Journeys
-role: User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
-duration: 450
-last-substantial-update: 2025-03-03T00:00:00Z
+duration: 87
+last-substantial-update: 2026-10-29
 jira: KT-17443
 exl-id: 1e290e1d-a97e-48ab-a0c1-bad127b7dde3
-source-git-commit: c7b76b0f10bc4becb38c515e0b4c4cc9c457c6fb
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
-
+source-wordcount: '190'
+ht-degree: 3%
 ---
+# Escuchar eventos de Experience Platform
 
-# Escuchar eventos de AEP
+Use [!DNL Adobe Experience Platform] eventos de experiencia para avanzar en los recorridos de cuenta en [!DNL Adobe Journey Optimizer B2B Edition] cuando se produzca una actividad coincidente. Descubra cómo los administradores configuran los tipos de eventos y los campos, y cómo los especialistas en marketing los utilizan en un nodo [!UICONTROL Escuchar un evento].
 
-La escucha de eventos de AEP en [!DNL Journey Optimizer B2B Edition] le permite definir y utilizar cualquier evento de experiencia en el recorrido de la cuenta. Los administradores pueden configurar definiciones de eventos basadas en Adobe Experience Platform (AEP), que permiten a los especialistas en marketing crear recorridos de cuenta que reaccionen a los eventos de experiencia de AEP. El uso de eventos de experiencia de AEP en recorridos de cuenta es un proceso en dos partes:
+>[!VIDEO](https://video.tv.adobe.com/v/3448686/?captions=spa&quality=12&learn=on)
 
-* Creación y publicación de una definición de evento de AEP
+## Aspectos básicos de Experience Event
 
-* Uso de eventos de AEP en el recorrido de cuentas
+El vídeo abarca estos temas:
 
->[!VIDEO](https://video.tv.adobe.com/v/3448686/?captions=spa&learn=on&enablevpops)
+* Requisitos previos de ingesta de esquemas y streaming para eventos de experiencia.
+* Tipos de eventos y campos que los administradores ponen a disposición para la coincidencia de eventos de recorrido.
+* Eventos de personas, restricciones y filtros que los especialistas en marketing utilizan en los recorridos de cuenta.
+* Filtrado del historial de eventos para la actividad que se produjo antes del paso del oyente.
+
+Un oyente responde a la actividad de flujo continuo coincidente cuando la cuenta alcanza ese paso. Utilice el filtrado del historial de eventos para evaluar la actividad anterior.
+
+## Documentación relacionada
+
+Para conocer los requisitos y las instrucciones de configuración, consulte estas páginas en la guía del usuario:
+
+* [Seleccionar eventos de experiencia y campos](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Escuchar un evento](https://experienceleague.adobe.com/es/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
